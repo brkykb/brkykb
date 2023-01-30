@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/brkykb">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brkykb&show_icons=true&theme=radical"  />
+  <img align="center" dir="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brkykb&show_icons=true&theme=radical"  />
  </a>
 
 <a href="https://github.com/brkykb">
