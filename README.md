@@ -2,12 +2,14 @@
 
 # Hi! Welcome to my github profile. <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="30" height="30">
 
+<img src="[https://giphy.com/gifs/i4MAH84pqe2m2aVojc](https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g)" align="right" width="100" height="100">
+
 ![](https://komarev.com/ghpvc/?username=brkykb)
 ### About me:
 - #### I'm a student at [Karabuk University].
 [Karabuk University]:"https://www.karabuk.edu.tr"
 
-<img src="https://giphy.com/gifs/i4MAH84pqe2m2aVojc" align="right" width="100" height="100">
+
 
 
 - #### :zap: I’m currently learning C & Python
