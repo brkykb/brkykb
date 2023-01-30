@@ -25,12 +25,12 @@
 
 ### Top Repositories
 <a href="https://github.com/brkykb/C">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=brkykb&repo=C&theme=radical"  />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=C&theme=radical"  />
  </a> 
 
 
 <a href="https://github.com/brkykb/Python">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=brkykb&repo=Python&theme=radical" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Python&theme=radical" />
 </a>
 
 
