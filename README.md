@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=brkykb&color=red)
 ### About me
-- #### I'm a student at [Karabuk University].
+- #### I'm a student at [Karabuk University]
 [Karabuk University]:"https://www.karabuk.edu.tr"
 
 
