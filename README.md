@@ -4,7 +4,7 @@
 
 <img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" align="right" width="170" height="170">
 
-![](https://komarev.com/ghpvc/?username=brkykb)
+![](https://komarev.com/ghpvc/?username=brkykb&color=red)
 ### About me:
 - #### I'm a student at [Karabuk University].
 [Karabuk University]:"https://www.karabuk.edu.tr"
