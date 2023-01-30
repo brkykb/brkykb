@@ -2,7 +2,7 @@
 
 # Hi! Welcome to my github profile. <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="30" height="30">
 
-<img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" align="right" width="100" height="100">
+<img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" align="right" width="150" height="150">
 
 ![](https://komarev.com/ghpvc/?username=brkykb)
 ### About me:
