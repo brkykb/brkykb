@@ -7,6 +7,7 @@
 - #### I'm a student at [Karabuk University].
 [Karabuk University]:"https://www.karabuk.edu.tr"
 
+<img src="https://giphy.com/gifs/i4MAH84pqe2m2aVojc" align="right" width="100" height="100">
 
 
 - #### :zap: I’m currently learning C & Python
