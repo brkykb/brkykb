@@ -23,6 +23,8 @@
   <img align="center" dir="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brkykb&show_icons=true&theme=radical"  />
  </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=brkykb&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 <a href="https://github.com/brkykb">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkykb&layout=compact&theme=radical"  />
  </a> 
