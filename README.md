@@ -38,7 +38,7 @@
 
 
 <a href="https://github.com/brkykb/Python">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Python&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=DataStructures&theme=radical" />
 </a>
 
 
