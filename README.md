@@ -33,7 +33,7 @@
 
 ### Top Repositories
 <a href="https://github.com/brkykb/C">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Java&theme=radical"  />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=ObjectOrientedProgramming&theme=radical"  />
  </a> 
 
 
