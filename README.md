@@ -32,12 +32,12 @@
 
 
 ### Top Repositories
-<a href="https://github.com/brkykb/C">
+<a href="https://github.com/brkykb/ObjectOrientedProgramming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=ObjectOrientedProgramming&theme=radical"  />
  </a> 
 
 
-<a href="https://github.com/brkykb/Python">
+<a href="https://github.com/brkykb/DataStructures">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=DataStructures&theme=radical" />
 </a>
 
