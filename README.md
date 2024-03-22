@@ -21,7 +21,7 @@
 ### Stats
 
 <a href="https://github.com/brkykb">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=burnt-neon&show_icons=true" />
 </a>
 
 <a href="https://github.com/brkykb">
