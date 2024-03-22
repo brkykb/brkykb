@@ -21,7 +21,7 @@
 ### Stats
 
 <a href="https://github.com/brkykb">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=burnt-neon&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true" />
 </a>
 
 <a href="https://github.com/brkykb">
@@ -31,7 +31,7 @@
 
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
+  <img align="center" dir="auto" src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
  </a>
 
 ### Top Repositories
