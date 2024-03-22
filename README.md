@@ -45,8 +45,8 @@
  </a> 
 
 
-<a href="https://github.com/brkykb/DataStructures">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=DataStructures&theme=radical" />
+<a href="https://github.com/brkykb/Swift">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Swift&theme=radical" />
 </a>
 
 
