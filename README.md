@@ -21,6 +21,10 @@
 ### Stats
 
 <a href="https://github.com/brkykb">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical" />
+</a>
+
+<a href="https://github.com/brkykb">
   <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brkykb&show_icons=true&theme=radical"  />
  </a>
 
