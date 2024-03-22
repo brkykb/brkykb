@@ -1,6 +1,5 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM3ZXIxOTZmMm52dnh4cHcxc2UwYnhzejQzNW9mN3pwdDdrbGNoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpAGF6uxLw93uuQNNJ/giphy.gif" align="left" height="40" width="80" >
-
 # Hi! Welcome to my github profile <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="40" height="40">
 
 <img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" align="right" width="170" height="170">
