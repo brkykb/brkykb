@@ -23,9 +23,12 @@
 <a href="https://github.com/brkykb">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true" />
 </a>
+
 <a href="https://github.com/brkykb">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkykb&layout=compact&theme=radical"  />
- </a> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
