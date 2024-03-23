@@ -18,7 +18,7 @@
 
 
 ### Stats
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="200" height="200">
 
 <a href="https://git.io/streak-stats">
   <img align="center" dir="auto" src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
