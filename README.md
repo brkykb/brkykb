@@ -11,7 +11,7 @@
 
 
 
-- #### :zap: I’m currently learning Swift, SwiftUI, UIKit
+- #### :zap: I’m currently learning Machine Learning, Deep Learning and Artificial Intelligence
 
  ### Languages
  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40" /> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/swift/swift.png" width="35" height="35" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" /> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" width="40" height="40" />  
