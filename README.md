@@ -1,14 +1,9 @@
 # Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<div align="right">
-  <img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" width="200" height="200"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=brkykb&color=red" alt="Profile views" />
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=brkykb&color=red" alt="Profile views" />
-</div>
-
----
+<div style="clear: both;">
+  <img align="right" src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" width="180" height="180"/>
 
 ### 👨‍💻 About Me
 
@@ -16,6 +11,9 @@
 - 📱 I’m currently focusing on **Mobile App Development with Flutter**.
 - 🧠 I’m also working on **Artificial Intelligence, Machine Learning, and Computer Vision**.
 - 🔭 I’m currently learning **Advanced State Management in Flutter & Deep Learning Models**.
+</div>
+
+<br clear="right">
 
 ---
 
@@ -30,7 +28,6 @@
 
 **Mobile Development**<br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
 
 **AI & Data Science**<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -52,14 +49,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/brkykb">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=320" />
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=brkykb&theme=radical)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=320)](https://github.com/brkykb)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true)](https://github.com/brkykb)
+
 </div>
 
 ---
