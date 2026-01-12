@@ -1,66 +1,76 @@
-# Hi! Welcome to my github profile <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="40" height="40">
+# Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" align="right" width="170" height="170">
+<div align="center">
+  <img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" width="200" height="200"/>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brkykb&color=red" alt="Profile views" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=brkykb&color=red)
-### About me
-- #### I'm a student at [Karabuk University]
-[Karabuk University]:"https://www.karabuk.edu.tr"
+---
 
+### 👨‍💻 About Me
 
+- 🎓 I'm a student at **[Karabuk University](https://www.karabuk.edu.tr)**.
+- 📱 I’m currently focusing on **Mobile App Development with Flutter**.
+- 🧠 I’m also working on **Artificial Intelligence, Machine Learning, and Computer Vision**.
+- 🔭 I’m currently learning **Advanced State Management in Flutter & Deep Learning Models**.
 
+---
 
-- #### :zap: I’m currently learning Machine Learning, Deep Learning and Artificial Intelligence
+### 🛠️ Tech Stack & Tools
 
- ### Languages
- <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40" /> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/swift/swift.png" width="35" height="35" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" /> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" width="40" height="40" />  
- 
+<div align="center">
 
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
+**Mobile Development**<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250">
+**AI & Data Science**<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
+**Tools & IDEs**<br>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
+</div>
 
-<a href="https://git.io/streak-stats">
-  <img align="center" dir="auto" src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
- </a>
+---
 
+### 📈 GitHub Stats
 
-### Stats
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=brkykb&theme=radical" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <a href="https://github.com/brkykb">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
+---
 
+### 📌 Top Repositories
 
-<a href="https://github.com/brkykb">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true" />
-</a>
-
-<a href="https://github.com/brkykb">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=32" />
-</a>
-
-
-
-
-### Top Repositories
-<a href="https://github.com/brkykb/ObjectOrientedProgramming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=ObjectOrientedProgramming&theme=radical"  />
- </a> 
-
-
-<a href="https://github.com/brkykb/Swift">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Swift&theme=radical" />
-</a>
-
-<p> 
-
- 
-</p>
-
-<a align="right" ref="https://www.buymeacoffee.com/brkykb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-
-
-
+<div align="center">
+  <a href="https://github.com/brkykb/ObjectOrientedProgramming">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=ObjectOrientedProgramming&theme=radical" />
+  </a>
+  <a href="https://github.com/brkykb/Swift">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Swift&theme=radical" />
+  </a>
+</div>
