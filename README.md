@@ -1,10 +1,10 @@
 # Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<div align="center">
+<div align="right">
   <img src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" width="200" height="200"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=brkykb&color=red" alt="Profile views" />
 </div>
 
@@ -30,7 +30,7 @@
 
 **Mobile Development**<br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 
 **AI & Data Science**<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
