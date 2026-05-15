@@ -12,7 +12,6 @@ Junior AI/Backend Developer — building intelligent systems with Python, Django
 - 🤖 Currently interning at **Türksat** — building a Jira-integrated Chrome Extension with LLM-based task automation
 - 🍄 Built and deployed **[Mushapp](https://mushapp.dev)** — a ResNet50-based mushroom classification web app on DigitalOcean
 - 📄 Published at **ISSRIS 2026** — deep learning for mushroom species classification
-- 🌐 Portfolio: **[berkaykarabulut.com](https://berkaykarabulut.com)**
 
 ---
 
@@ -48,9 +47,6 @@ Junior AI/Backend Developer — building intelligent systems with Python, Django
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brkykb&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=320)](https://github.com/brkykb)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true)](https://github.com/brkykb)
-
 </div>
 
 ---
@@ -60,7 +56,7 @@ Junior AI/Backend Developer — building intelligent systems with Python, Django
 <div align="center">
 
 [![Mushapp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=mushapp&theme=radical)](https://github.com/brkykb/mushapp)
-[![Artificial-Intelligence](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Artificial-Intelligence&theme=radical)](https://github.com/brkykb/Artificial-Intelligence)
+[![Secure Gateway](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=secure-gateway&theme=radical)](https://github.com/brkykb/Artificial-Intelligence)
 
 </div>
 
