@@ -1,48 +1,44 @@
-# Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there! I'm Berkay 👋
 
 <img src="https://komarev.com/ghpvc/?username=brkykb&color=red" alt="Profile views" />
 
-<div style="clear: both;">
-  <img align="right" src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47p9ufwdh8l7zfncvwc92s48mn1xcoykdxvnx6rb1r&rid=giphy.gif&ct=g" width="180" height="180"/>
-
-### 👨‍💻 About Me
-
-- 🎓 I'm a student at **[Karabuk University](https://www.karabuk.edu.tr)**.
-- 📱 I’m currently focusing on **Mobile App Development with Flutter**.
-- 🧠 I’m also working on **Artificial Intelligence, Machine Learning, and Computer Vision**.
-- 🔭 I’m currently learning **Advanced State Management in Flutter & Deep Learning Models**.
-</div>
-
-<br clear="right">
+Junior AI/Backend Developer — building intelligent systems with Python, Django, and deep learning.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-<div align="center">
+- 🎓 Computer Engineering student at **[Karabük University](https://www.karabuk.edu.tr)** (GPA: 3.19/4.00)
+- 🤖 Currently interning at **Türksat** — building a Jira-integrated Chrome Extension with LLM-based task automation
+- 🍄 Built and deployed **[Mushapp](https://mushapp.dev)** — a ResNet50-based mushroom classification web app on DigitalOcean
+- 📄 Published at **ISSRIS 2026** — deep learning for mushroom species classification
+- 🌐 Portfolio: **[berkaykarabulut.com](https://berkaykarabulut.com)**
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+---
 
-**Mobile Development**<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+### 🛠️ Tech Stack
 
-**AI & Data Science**<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Tools & IDEs**<br>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+**Backend**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+**AI & Computer Vision**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -52,8 +48,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brkykb&theme=radical)](https://git.io/streak-stats)
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brkykb&theme=radical&layout=compact&langs_count=8&card_width=320)](https://github.com/brkykb)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brkykb&theme=radical&show_icons=true)](https://github.com/brkykb)
 
@@ -61,13 +55,19 @@
 
 ---
 
-### 📌 Top Repositories
+### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/brkykb/ObjectOrientedProgramming">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=ObjectOrientedProgramming&theme=radical" />
-  </a>
-  <a href="https://github.com/brkykb/Swift">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Swift&theme=radical" />
-  </a>
+
+[![Mushapp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=mushapp&theme=radical)](https://github.com/brkykb/mushapp)
+[![Artificial-Intelligence](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=Artificial-Intelligence&theme=radical)](https://github.com/brkykb/Artificial-Intelligence)
+
 </div>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bkkarabulut)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://berkaykarabulut.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkaykarabulut00@gmail.com)
