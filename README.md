@@ -37,7 +37,6 @@ Junior AI/Backend Developer — building intelligent systems with Python, Django
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -56,7 +55,7 @@ Junior AI/Backend Developer — building intelligent systems with Python, Django
 <div align="center">
 
 [![Mushapp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=mushapp&theme=radical)](https://github.com/brkykb/mushapp)
-[![Secure Gateway](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=secure-gateway&theme=radical)](https://github.com/brkykb/Artificial-Intelligence)
+[![Secure Gateway](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brkykb&repo=secure-gateway&theme=radical)](https://github.com/brkykb/secure-gateway)
 
 </div>
 
